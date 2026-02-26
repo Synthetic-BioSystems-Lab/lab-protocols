@@ -92,6 +92,7 @@
   - If adding more enzymes and buffer, adjust total volume accordingly.
   - Gently mix; tapping is sufficient.
   - Add tubes to the thermocycler and ensure caps are locked.
+  - Lock the lid.
 
 - Thermocycler program (example):
   - 37 °C for 20 min.
