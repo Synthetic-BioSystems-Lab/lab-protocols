@@ -2,7 +2,7 @@
 
 ## Purpose
 
-Electroporation-based transformation of electrocompetent cells with plasmid DNA, followed by recovery in SOC and downstream plating.
+Electroporation-based transformation of electrocompetent cells with plasmid DNA. 
 
 ---
 
@@ -11,7 +11,7 @@ Electroporation-based transformation of electrocompetent cells with plasmid DNA,
 - Electrocompetent cells (on ice)
 - Plasmid DNA (≥20 ng/µL recommended)
 - Ice-cold electroporation cuvettes (appropriate gap width for your instrument)
-- SOC medium (room temperature)
+- LB medium (room temperature)
 - Micropipettes and sterile tips (P10, P200, P1000)
 - Electroporator
 - Waste container for used tips
@@ -20,7 +20,7 @@ Electroporation-based transformation of electrocompetent cells with plasmid DNA,
 
 ## Instrument Settings
 
-- Voltage: 2.5 kV (typical for 0.2 cm cuvette; adjust to your lab standard)
+- Voltage: 2.5 kV (typical for 0.2 cm cuvette)
 - Resistance: 200 Ω
 - Capacitance: as per instrument default for bacterial electroporation
 
@@ -31,7 +31,7 @@ A time constant between 4–6 ms is generally acceptable.
 ## Procedure
 
 1. **Prepare cells and DNA**
-   - Thaw or keep electrocompetent cells on ice.
+   - Thaw and keep electrocompetent cells on ice, below 8°C.
    - Keep electroporation cuvettes on ice until use.
    - Ensure plasmid DNA is at a reasonable concentration (≥20 ng/µL).
 
@@ -49,33 +49,22 @@ A time constant between 4–6 ms is generally acceptable.
    - Return the cuvette to ice for a few minutes while you prepare the electroporation station.
 
 5. **Move to electroporation station**
-   - Bring cuvettes, SOC medium, P1000 pipette, and waste container to the electroporator.
-   - Set the electroporator to 2.5 kV, 200 Ω (or your lab’s standard electroporation settings).
+   - Bring cuvettes, LB medium, P1000 pipette, and waste container to the electroporator.
+   - Set the electroporator to 2.5 kV, 200 Ω (should be the lab’s standard electroporation settings).
 
 6. **Electroporation**
-   - Remove one cuvette from ice, wipe the outside dry to prevent arcing.
+   - Remove one cuvette from ice(or store them in fridge until needed), wipe the outside dry to prevent arcing.
    - Place the cuvette in the electroporator.
-   - Press the two pulse buttons simultaneously and hold until you hear/see the pulse complete.
+   - Press the pulse button.
    - Confirm that a time constant is displayed; values in the 4–6 ms range are typical.
 
    **Note on arcing:**  
-   If you see a bright flash and hear a loud pop, the sample has arced, usually due to excess salt. The cells in that cuvette are likely nonviable. If you have remaining electrocompetent cells, you can re-wash them with ice-cold sterile water and repeat the preparation; otherwise, you may need to start over.
+   If you see a bright flash and hear a loud pop, the sample has arced, usually due to excess salt. The cells in that cuvette are now dead.
 
 7. **Immediate recovery**
    - Immediately after the pulse, remove the cuvette from the electroporator.
-   - Add 900 µL of room-temperature SOC directly into the cuvette.
+   - Add 900 µL of room-temperature LB directly into the cuvette.
    - Gently pipette up and down to resuspend the cells; transfer the suspension to a sterile culture tube or microcentrifuge tube.
-   - Keep the recovered culture at room temperature (do not return to ice).
+   - Transfer the recovered culture to incubator shaking at 37°C for 1 hour. Then plate or do an overnight with appropriate antibiotics.
 
-8. **Repeat for additional samples**
-   - If performing multiple electroporations, repeat steps 6–7 for each cuvette.
-   - Leave each culture in SOC at room temperature before the outgrowth step (e.g., shaking at 37°C for 1 hour, if that is your standard practice).
 
----
-
-## Notes
-
-- Minimize the total volume added to the cuvette (cells + DNA) to maintain efficient pulsing and reduce the risk of arcing.
-- Ensure all solutions contacting the cells (especially DNA) are low-salt.
-- Always handle cuvettes gently and keep them cold before pulsing; work quickly but without rushing.
-- Adjust electroporator settings (voltage, resistance, cuvette size) to match your instrument and organism if they differ from the values listed here.
