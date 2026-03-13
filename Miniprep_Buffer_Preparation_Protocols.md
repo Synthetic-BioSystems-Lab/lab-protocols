@@ -118,4 +118,87 @@ For 50 mL of 20% SDS stock:
 
 - Guanidine hydrochloride – stored on chemical shelf
 - Potassium acetate – stored on chemical shelf
-- Glacial acetic acid – in lab
+- Glacial acetic acid – in lab fume hood [file:3]
+
+### Recipe for 100 mL Buffer N3
+
+**Target concentrations:** [file:3]
+
+- 4.2 M guanidine-HCl (MW = 95.53 g/mol)
+- 0.9 M potassium acetate (MW = 98.15 g/mol)
+- pH adjusted to approximately 5.0 with glacial acetic acid
+
+**Calculations:** [file:3]
+
+- Guanidine-HCl: 4.2 M × 0.1 L × 95.53 g/mol = 40.1 g (round to 50 g for typical recipe with volume adjustment)
+- Potassium acetate: 0.9 M × 0.1 L × 98.15 g/mol = 8.8 g (round to 10 g)
+
+### Procedure
+
+1. Add approximately 50 mL DI water to a beaker with stir bar.
+2. Weigh and add 50 g guanidine hydrochloride. Stir until dissolved.
+3. Weigh and add 10 g potassium acetate. Stir until dissolved.
+4. Adjust pH to approximately 5.0 by adding glacial acetic acid dropwise while monitoring with pH paper or meter (typically requires 2–3 mL).
+5. Transfer to a graduated cylinder and bring final volume to 100 mL with DI water.
+6. Mix thoroughly.
+7. Transfer to a labeled bottle: “Buffer N3, 100 mL”, date, initials, “RT”. [file:3]
+
+**Note:** The high guanidine-HCl concentration makes this buffer very dense. Ensure complete dissolution before adjusting to final volume. The pH should be around 5.0 to efficiently precipitate SDS–protein complexes when added to lysate. [file:3]
+
+---
+
+## Buffer PE (10 mM Tris-HCl pH 8.0, 80% Ethanol)
+
+**Storage:** Room temperature for up to 6 months  
+**Note:** This is a wash buffer to remove salts before elution. [file:3]
+
+### Reagent Sources
+
+- Tris-HCl 1 M pH 8.0 – stored at 4°C
+- Ethanol (absolute, 200 proof or 95%) – in lab (chemical cabinet under fume hood) [file:3]
+
+### Recipe for 100 mL Buffer PE
+
+**Target concentrations:** [file:3]
+
+- 10 mM Tris-HCl pH 8.0
+- 80% v/v ethanol
+
+### Procedure
+
+1. Add approximately 15 mL DI water to a clean 100 mL graduated cylinder or bottle.
+2. Add 1 mL of 1 M Tris-HCl pH 8.0 stock.
+3. Add 80 mL of absolute ethanol (or 84 mL of 95% ethanol to achieve 80% final).
+4. Mix gently and bring final volume to exactly 100 mL with DI water.
+5. Mix thoroughly by inversion.
+6. Label: “Buffer PE, 100 mL”, date, initials, “RT, flammable”. [file:3]
+
+**Final concentrations:** [file:3]
+
+- Tris-HCl: (1 M × 1 mL) / 100 mL = 10 mM
+- Ethanol: 80 mL / 100 mL = 80% v/v
+
+---
+
+## Buffer Summary Table
+
+| Buffer | Key Components                          | Storage | Shelf Life       |
+|--------|-----------------------------------------|---------|------------------|
+| P1     | 50 mM Tris-HCl, 10 mM EDTA, RNase A     | 4°C     | 3 months         |
+| P2     | 200 mM NaOH, 1% SDS                     | RT      | 7 days           |
+| N3     | 4.2 M Gu-HCl, 0.9 M KOAc, pH 5          | RT      | Several months   |
+| PE     | 10 mM Tris-HCl, 80% EtOH                | RT      | 6 months         | [file:3]
+
+Table 1: Miniprep buffer storage and stability reference. [file:3]
+
+---
+
+## General Notes
+
+- Always use sterile or molecular biology-grade water for buffer preparation.
+- Label all bottles clearly with buffer name, volume, date prepared, your initials, and storage conditions.
+- Check buffers for contamination or precipitation before use.
+- For P2: the short shelf life is due to gradual hydrolysis of SDS in alkaline conditions. Making fresh weekly ensures optimal lysis.
+- For N3: the exact pH is not critical (4.5–5.5 range works), but consistency improves reproducibility.
+- For PE: ensure ethanol is properly sealed when not in use to prevent evaporation and concentration changes.
+- Keep accurate records of when buffers were made and discard after shelf life expires. [file:3]
