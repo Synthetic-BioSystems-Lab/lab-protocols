@@ -15,6 +15,7 @@ Electroporation-based transformation of electrocompetent cells with plasmid DNA.
 - Micropipettes and sterile tips (P10, P200, P1000)
 - Electroporator
 - Waste container for used tips
+- Eyewear PPE! 
 
 ---
 
