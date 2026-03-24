@@ -85,7 +85,7 @@ For 50 mL of 20% SDS stock:
 6. Store at room temperature (NOT 4°C) for several months.
 7. If SDS precipitates, warm gently to redissolve.  
 
-### Mixing Fresh P2 from Stocks (100 mL)
+### Mixing Fresh P2 from Stocks (10 mL)
 
 **Dilution calculations:**  
 
@@ -94,13 +94,13 @@ For 50 mL of 20% SDS stock:
 
 #### Procedure
 
-1. Add approximately 90 mL DI water to a clean 100 mL bottle.
-2. Add 2 mL of 10 N NaOH stock.
-3. Add 5 mL of 20% SDS stock.
+1. Add approximately 9 mL DI water to a clean 10 mL falcon tube.
+2. Add .2 mL of 10 N NaOH stock.
+3. Add .5 mL of 20% SDS stock.
 4. Mix gently by inversion (avoid vigorous shaking to prevent foam).
-5. Bring final volume to exactly 100 mL with DI water.
+5. Bring final volume to exactly 10 mL with DI water.
 6. Mix thoroughly by inversion.
-7. Label: “Buffer P2, 100 mL”, date, initials, “RT, use within 7 days”.  
+7. Label: “Buffer P2, 10 mL”, date, initials, “RT, use within 7 days”.  
 
 **Final concentrations:**  
 
