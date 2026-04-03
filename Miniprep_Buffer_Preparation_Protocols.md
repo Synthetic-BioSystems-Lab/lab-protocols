@@ -111,7 +111,7 @@ For 50 mL of 20% SDS stock:
 
 ## Buffer N3 (4.2 M Guanidine-HCl, 0.9 M Potassium Acetate, pH ~5)
 
-**Storage:** Room temperature for several months  
+**Storage:** Room temperature for several years  
 **Note:** This is a neutralization and chaotropic wash buffer.  
 
 ### Reagent Sources
@@ -130,16 +130,16 @@ For 50 mL of 20% SDS stock:
 
 **Calculations:**  
 
-- Guanidine-HCl: 4.2 M × 0.1 L × 95.53 g/mol = 40.1 g (round to 50 g for typical recipe with volume adjustment)
-- Potassium acetate: 0.9 M × 0.1 L × 98.15 g/mol = 8.8 g (round to 10 g)
+- Guanidine-HCl: 4.2 M × 0.1 L × 95.53 g/mol = 40.1 g 
+- Potassium acetate: 0.9 M × 0.1 L × 98.15 g/mol = 8.8 g 
 
 ### Procedure
 
-1. Add approximately 50 mL DI water to a beaker with stir bar.
-2. Weigh and add 50 g guanidine hydrochloride. Stir until dissolved.
-3. Weigh and add 10 g potassium acetate. Stir until dissolved.
-4. Adjust pH to approximately 5.0 by adding glacial acetic acid dropwise while monitoring with pH paper or meter (typically requires 2–3 mL).
-5. Transfer to a graduated cylinder and bring final volume to 100 mL with DI water.
+1. Add approximately 50 mL sterile DI water to a bottle with stir bar.
+2. Weigh and add 40.1 g guanidine hydrochloride. Stir until dissolved.
+3. Weigh and add 8.8 g potassium acetate. Stir until dissolved.
+4. Adjust pH to approximately 5.0 by adding glacial acetic acid dropwise while monitoring with pH paper or meter (typically requires 2–5 mL).
+5. Bring final volume to 100 mL with DI water.
 6. Mix thoroughly.
 7. Transfer to a labeled bottle: “Buffer N3, 100 mL”, date, initials, “RT”.  
 
