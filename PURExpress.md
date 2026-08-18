@@ -27,7 +27,7 @@ Refer to spreadsheet for specified volumes.
 	d) Add MB and HBC620 to master mix
 	e) Cap master mix and quickly vortex
 6) Add specified volume of master mix to each PCR tube.
-7) Cap PCR tubes and quickly vortex.
+7) Pipette mix PCR tubes.
 8) Add 10 $\micro$L of PCR tube to wells in 384-well plate (do not go through second stop to avoid generating bubbles).
 9) Check for bubbles and apply clear plastic cover sheet to the plate.
 10) Use a plate centrifuge to move any bubbles to the top of the wells. 
